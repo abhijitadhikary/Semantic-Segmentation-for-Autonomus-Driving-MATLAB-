@@ -1,0 +1,14 @@
+To run the model please run the 'GUI.m' file.
+To train the model please run the 'main.m' function
+
+2 sample video files are provided for testing purposes. They are stored in the 'video' folder.
+
+Sample running of the project are recorded and stored in the "Sample Running Video of the Project" folder.
+
+The system is developed using MATLAB version 2018b. The following MATLAB libraries are required to run the system:
+•	Image Processing Toolbox
+•	Deep Learning Toolbox
+•	Computer Vision Toolbox
+•	VGG-16 Network Model
+•	Parallel Computing Toolbox (Optional – for GPU usage)
+•	MATLAB Support Package for USB Webcams (Optional – for Webcam access)

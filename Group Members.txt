@@ -1,0 +1,10 @@
+Project Name: Semantic Segmentation of Vehicle Dashcam Video Using Deep Learning
+Module: Image Processing With MATLAB
+Coursework 2
+
+Group Members (4):
+
+1)	Abhijit Adhikary – M00641486
+2)	Mukeshbala Sundaravadivelu – M00581735
+3)	Shane Payen – M00609315
+4)	Louis Needs – M00571563
